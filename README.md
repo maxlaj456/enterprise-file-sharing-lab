@@ -26,3 +26,11 @@ The purpose of this lab was to strengthen practical system administration skills
 - Cross-platform file sharing (SMB + CIFS)
 - Scheduled tasks and cron jobs
 
+## Project Documentation 
+Detailed step-by-step documentation.  
+
+### Windows Server Configuration
+
+### Linux Server Configuration
+
+### Linux Client Configuration
