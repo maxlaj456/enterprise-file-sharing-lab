@@ -34,3 +34,6 @@ Detailed step-by-step documentation.
 ### Linux Server Configuration
 
 ### Linux Client Configuration
+
+### Disclaimer
+All domain names, IP addresses, and credentials used in this project belong to an isolated lab environment created for educational purposes.
