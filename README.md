@@ -58,4 +58,5 @@ All domain names, IP addresses, and credentials used in this project belong to a
 
 ### Author
 Maximilian Lajsic
+
 Linkedin: https://www.linkedin.com/in/maximilian-lajsic-930554168/
