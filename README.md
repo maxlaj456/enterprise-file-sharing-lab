@@ -33,8 +33,10 @@ Detailed step-by-step documentation.
 https://github.com/maxlaj456/enterprise-file-sharing-lab/blob/main/windows-server.md
 
 ### Linux Server Configuration
+https://github.com/maxlaj456/enterprise-file-sharing-lab/blob/main/linux-server.md
 
 ### Linux Client Configuration
+https://github.com/maxlaj456/enterprise-file-sharing-lab/blob/main/linux-client.md
 
 ## Security Focus
 This lab follows several security best practices:
