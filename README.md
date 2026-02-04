@@ -30,6 +30,7 @@ The purpose of this lab was to strengthen practical system administration skills
 Detailed step-by-step documentation.  
 
 ### Windows Server Configuration
+windows-server.md
 
 ### Linux Server Configuration
 
