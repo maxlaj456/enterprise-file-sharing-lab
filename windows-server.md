@@ -49,6 +49,9 @@ Permissions granted:
 
 Modify → authorized groups only
 
+![Share Permissions](images/windows/share-permissions.png)
+![Share Permissions](images/windows/share_permission.png)
+
 ### Security principle applied:
 Least Privilege
 
@@ -64,10 +67,23 @@ A new Group Policy Object (GPO) was created and linked to the domain.
 
 This reduces the effectiveness of brute-force attacks.
 
-(Insert screenshot → images/windows/gpo.png)
+![GPO](images/windows/gpo.png)
 
 ## PowerShell Monitoring Script
 The provided script was modified to output failed login attempts to:
 \\DC01\linuxshare\output.txt
 
 The script was executed via PowerShell.
+
+## Task Scheduler Automation
+A scheduled task named:
+
+FailedLoginMonitor
+
+was created with the following behavior:
+- Trigger: Daily
+- Repeat: Every hour
+
+Purpose: continuously monitor failed authentication attempts.
+
+Testing confirmed that failed RDP logins generated log entries.
