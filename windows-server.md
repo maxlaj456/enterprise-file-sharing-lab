@@ -87,3 +87,11 @@ was created with the following behavior:
 Purpose: continuously monitor failed authentication attempts.
 
 Testing confirmed that failed RDP logins generated log entries.
+
+![Task Scheduler](images/windows/task-scheduler.png)
+
+## Firewall Validation
+Verified that the inbound firewall rule:
+File and Printer Sharing (SMB-In)
+
+was enabled to allow network access to shared folders.
