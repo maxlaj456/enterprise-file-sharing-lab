@@ -4,7 +4,8 @@
 Configure identity management, secure file sharing, password policies, and automated monitoring of failed login attempts.
 
 ## Active Directory — User & Group Creation
-A domain user was created using Active Directory Users and Computers within the corp.local domain.
+A domain user was created using Active Directory Users and Computers within the lajsic.se domain.
+![Ad User](images/windows/ad-user.png)
 
 ### Process:
 - Created a new user with a defined logon name.
@@ -17,6 +18,8 @@ A domain local security group named:
 linuxshareusers 
 
 was created to manage access to shared resources. 
+
+![Ad Group](images/windows/ad-group.png)
 
 ### Why Domain Local?
 Domain local groups are ideal for assigning permissions to resources within a specific domain.
