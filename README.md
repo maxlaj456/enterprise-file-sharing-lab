@@ -30,7 +30,7 @@ The purpose of this lab was to strengthen practical system administration skills
 Detailed step-by-step documentation.  
 
 ### Windows Server Configuration
-windows-server.md
+https://github.com/maxlaj456/enterprise-file-sharing-lab/blob/main/windows-server.md
 
 ### Linux Server Configuration
 
